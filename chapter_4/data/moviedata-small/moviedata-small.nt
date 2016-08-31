@@ -1,0 +1,62 @@
+<http://rdf.freebase.com/ns/en.hollywood_homicide>	<http://rdf.freebase.com/ns/film.film.directed_by>	<http://rdf.freebase.com/ns/en.ron_shelton> .
+<http://rdf.freebase.com/ns/en.hollywood_homicide>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/en.harrison_ford> .
+<http://rdf.freebase.com/ns/en.hollywood_homicide>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/en.kurupt> .
+<http://rdf.freebase.com/ns/en.hollywood_homicide>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/en.robert_wagner>.
+<http://rdf.freebase.com/ns/en.hollywood_homicide> <http://rdf.freebase.com/ns/film.film.initial_release_date> "2003".
+
+<http://rdf.freebase.com/ns/en.k_19_the_widowmaker>	<http://rdf.freebase.com/ns/film.film.directed_by>	<http://rdf.freebase.com/ns/en.kathryn_bigelow>.
+<http://rdf.freebase.com/ns/en.k_19_the_widowmaker>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/en.joss_ackland>.
+<http://rdf.freebase.com/ns/en.k_19_the_widowmaker>	<http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/en.harrison_ford>.
+<http://rdf.freebase.com/ns/en.k_19_the_widowmaker> <http://rdf.freebase.com/ns/film.film.initial_release_date> "2002" .
+
+
+<http://rdf.freebase.com/ns/en.dark_blue> <http://rdf.freebase.com/ns/film.film.directed_by>	<http://rdf.freebase.com/ns/en.ron_shelton>.
+<http://rdf.freebase.com/ns/en.dark_blue> <http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/en.kurt_russell>.
+<http://rdf.freebase.com/ns/en.dark_blue> <http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/en.dash_mihok>.
+<http://rdf.freebase.com/ns/en.dark_blue> <http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/en.kurupt>.
+
+
+<http://rdf.freebase.com/ns/en.the_weight_of_water_2002> <http://rdf.freebase.com/ns/film.film.directed_by>	<http://rdf.freebase.com/ns/en.kathryn_bigelow>.
+<http://rdf.freebase.com/ns/en.the_weight_of_water_2002> <http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/en.sean_penn>.
+<http://rdf.freebase.com/ns/en.the_weight_of_water_2002> <http://rdf.freebase.com/ns/film.film.starring>	<http://rdf.freebase.com/ns/en.elizabeth_hurley>.
+<http://rdf.freebase.com/ns/en.the_weight_of_water_2002> <http://rdf.freebase.com/ns/film.film.initial_release_date> "2002".
+
+<http://rdf.freebase.com/ns/en.becoming_dick> <http://rdf.freebase.com/ns/film.film.directed_by> <http://rdf.freebase.com/ns/en.bob_saget>.
+<http://rdf.freebase.com/ns/en.becoming_dick> <http://rdf.freebase.com/ns/film.film.starring> <http://rdf.freebase.com/ns/en.bob_saget>.
+<http://rdf.freebase.com/ns/en.becoming_dick> <http://rdf.freebase.com/ns/film.film.starring> <http://rdf.freebase.com/ns/en.robert_wagner>.
+<http://rdf.freebase.com/ns/en.becoming_dick> <http://rdf.freebase.com/ns/film.film.initial_release_date> "2000".
+
+<http://rdf.freebase.com/ns/en.body_of_lies> <http://rdf.freebase.com/ns/film.film.directed_by> <http://rdf.freebase.com/ns/en.ridley_scott> .
+
+<http://rdf.freebase.com/ns/en.body_of_lies> <http://rdf.freebase.com/ns/film.film.starring> <http://rdf.freebase.com/ns/en.russell_crowe> .
+<http://rdf.freebase.com/ns/en.body_of_lies> <http://rdf.freebase.com/ns/film.film.starring> <http://rdf.freebase.com/ns/en.mark_strong> .
+<http://rdf.freebase.com/ns/en.body_of_lies> <http://rdf.freebase.com/ns/film.film.initial_release_date> "2008".
+
+
+<http://rdf.freebase.com/ns/en.mark_strong> <http://rdf.freebase.com/ns/type.object.name> "Mark Strong".
+
+<http://rdf.freebase.com/ns/en.russell_crowe> <http://rdf.freebase.com/ns/type.object.name> "Russell Crowe".
+
+<http://rdf.freebase.com/ns/en.ridley_scott> <http://rdf.freebase.com/ns/type.object.name> "Ridley Scott".
+
+<http://rdf.freebase.com/ns/en.bob_saget> <http://rdf.freebase.com/ns/type.object.name> "Bob Saget".
+
+<http://rdf.freebase.com/ns/en.robert_wagner> <http://rdf.freebase.com/ns/type.object.name> "Robert Wagner".
+
+<http://rdf.freebase.com/ns/en.elizabeth_hurley> <http://rdf.freebase.com/ns/type.object.name> "Elizabeth Hurley".
+
+<http://rdf.freebase.com/ns/en.sean_penn> <http://rdf.freebase.com/ns/type.object.name> "Sean Penn".
+
+<http://rdf.freebase.com/ns/en.kathryn_bigelow> <http://rdf.freebase.com/ns/type.object.name> "Kathryn Bigelow".
+
+<http://rdf.freebase.com/ns/en.dash_mihok> <http://rdf.freebase.com/ns/type.object.name> "Dash Mihok".
+
+<http://rdf.freebase.com/ns/en.kurt_russell> <http://rdf.freebase.com/ns/type.object.name> "Kurt Russell".
+
+<http://rdf.freebase.com/ns/en.ron_shelton> <http://rdf.freebase.com/ns/type.object.name> "Ron Shelton".
+
+<http://rdf.freebase.com/ns/en.harrison_ford> <http://rdf.freebase.com/ns/type.object.name> "Harrison Ford".
+
+<http://rdf.freebase.com/ns/en.joss_ackland> <http://rdf.freebase.com/ns/type.object.name> "Joss Ackland".
+
+<http://rdf.freebase.com/ns/en.kurupt> http://rdf.freebase.com/ns/type.object.name> "Kurupt" .

@@ -1,0 +1,38 @@
+Adding triples from files:
+
+Need a first model, then a second one to sort out which objs are Resources 
+
+First iteration:
+
+For each line:
+
+read in the line from file
+
+split the line 
+
+assign the values of each token to sub, pred, obj
+
+create a resource for each subject
+
+create a property for pred
+
+add all to model 
+
+
+Second iteration:
+
+get all triples from model1
+
+for each
+
+get object value
+
+if model1 contains that reasource, create a resource 
+
+add the triple to model 2
+
+write the model to file
+
+
+
+Jena: Implementing the RDF Model and Syntax Specification

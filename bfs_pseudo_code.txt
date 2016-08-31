@@ -1,0 +1,53 @@
+A
+
+|	\
+
+B        C
+
+| \	  \	\
+
+D  E	   F	  G
+
+| \	    \	   \
+
+H  H'	     I	    J
+
+List path.add(none)
+Map actorIdAndParents.put(A, path)
+Stack actorIdAndParents.add(nodeParents)
+
+while nodesAndParents.hasNext()
+
+	//get the next node
+	Map nodeMap = actorIdsAndParents.removeNode()
+
+	//get the parents and the node
+	string actorId = a.get(key)
+	List parents = a.get(values)	
+	
+	//Retrieve next nodes
+	movieNodes = queryTriples("none",starring,actorId)
+	foreach (movieNodes)
+		parents.add(actorId)
+		Map movieIdAndParents.put(movieNode[0], (parents))
+		Stack movieIdsAndParents.add(nextNodeAndParents) 
+	
+	while movieIsdAndParents.hasNext()
+		
+		//get nextNode and parent
+		movieIdAndParents = movieIdAndParents.remove()
+		string movieId = get(key)
+		List parents = get(value)
+		
+		nextActorNodes = queryTriples(nextNode,starring,actorName)
+		for (nextActorNodes)
+			parents.add(movieId)
+			
+			if (nextActorNodes[2].equals(endNode))
+				path  = parents
+				path.add(nodeId)
+				return path
+			else  
+				Map nextNextNodeMap.put(nodeId, parents)
+				nodesAndParents.add(nextNextNodeMap)
+		

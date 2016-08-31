@@ -1,0 +1,99 @@
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
+graph "bfs test graph" {
+
+overlap = "scale" 
+"Harrison Ford" -- "Getting Straight"
+"Getting Straight" -- "Candice Bergen"
+"Candice Bergen" -- "Starting Over"
+"Starting Over" -- "Kevin Bacon"
+ }
+
